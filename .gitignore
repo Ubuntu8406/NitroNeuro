@@ -2,7 +2,7 @@
 /shelf/
 *.jar
 
-.idea/*.xml
+.idea/discord.xml
 
 out/*
 
