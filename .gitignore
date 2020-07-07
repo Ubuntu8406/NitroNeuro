@@ -1,8 +1,9 @@
 # Default ignored files
 /shelf/
 *.jar
+.class
 
-.idea/discord.xml
+.idea/*.xml
 
 out/*
 
